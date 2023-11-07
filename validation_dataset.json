@@ -1,0 +1,38 @@
+[
+    {
+        "question": "Qual o nome da reitora em exercício na unicamp?",
+        "expected_answer": "Maria Luiza Moretti."
+    },
+    {
+        "question": "Quantas vagas serão oferecidas para ingresso nos Cursos de Graduação da Unicamp?",
+        "expected_answer": "Para o ano de 2024 são oferecidas 3340 vagas regulares para ingresso nos Cursos de Graduação da Unicamp."
+    },
+    {
+        "question": "E como essas vagas são distribuidas nos sistemas de ingresso?",
+        "expected_answer": "I. 2537 vagas oferecidas pelo Vestibular Unicamp (VU) 2024. \nII. 314 vagas oferecidas pelo Edital ENEM-Unicamp 2024. \nIII. 325 vagas oferecidas pelo Provão Paulista 2024. \nIV. 49 vagas oferecidas pelo Vestibular Indígena (VI) 2024. O Vestibular Indígena terá ainda 81 vagas adicionais, conforme Edital a ser publicado, respeitando os princípios da Deliberação CONSU-A-032/2017. \nIV. 115 vagas oferecidas pelo Edital de olimpíadas científicas e competições de conhecimento de áreas específicas. Haverá, ainda, 14 vagas adicionais nesse sistema de ingresso, conforme Edital a ser publicado, respeitando os princípios da Deliberação CONSU-A-032/2017. "
+    },
+    {
+        "question": "Quais os objetivos do VU em 2024?",
+        "expected_answer": "I. Classificar e selecionar candidatos(as) adequados(as) ao perfil de estudantes desejado pela Unicamp. \nII. Verificar o domínio do conhecimento desenvolvido pelos(as) candidatos(as) nas diversas formas de educação do Ensino Médio. \nIII. Avaliar a aptidão e o potencial dos candidatos(as) para o curso superior em que pretendem ingressar. \nIV. Interagir com os sistemas de Ensino Fundamental e Médio e contribuir para o aprimoramento da educação básica."
+    },
+    {
+        "question": "Em quais aspectos o vestibular da unicamp avaliará os candidatos?",
+        "expected_answer": "I. Capacidade de se expressar com clareza. \nII. Capacidade de organizar suas ideias. \nIII. Capacidade de estabelecer relações. \nIV. Capacidade de interpretar dados e fato. \nV. Capacidade de elaborar hipóteses. \nVI. Domínio dos conteúdos das áreas de conhecimento desenvolvidas no Ensino Médio. \nVII. Capacidade de relacionar e interpretar informações de caráter interdisciplinar, a partir das áreas de conhecimento presentes no Ensino Médio."
+    },
+    {
+        "question": "Quem pode participar do vestibular unicamp em 2024?",
+        "expected_answer": "I. Ser portador(a) de certificado de conclusão de Ensino Médio ou equivalente. \nII. Estar cursando o Ensino Médio ou equivalente. \nIII. Ser portador(a) de diploma de curso superior."
+    },
+    {
+        "question": "Como será calculada a nota desse vestibular?",
+        "expected_answer": "I. Ao(à) candidato(a) será atribuída uma nota padronizada (NP) em cada prova. A padronização atribuirá 500 pontos à média e 100 pontos ao desvio padrão. A NP do(a) candidato(a) em cada prova será dada por:  \n\nNP = 500 + (N – M) x 100/DP,  \n\nem que:  \n\n1. N é a nota bruta obtida pelo(a) candidato(a) na prova. \n2. M é a média da prova entre todos(as) os(as) candidatos(as) que a fizeram e obtiveram nota maior do que 0 (zero). M será arredondada para uma casa decimal com precisão de 0,5. \n3. DP é o desvio padrão da distribuição de notas da prova entre todos(as) os(as) candidatos(as) que a fizeram e obtiveram nota maior do que 0 (zero). DP será arredondado para uma casa decimal com precisão de 0,5. \n4. A nota padronizada NP será arredondada uma casa decimal com precisão de 0,1. \n5. A nota padronizada da 1ª fase será calculada segundo o art. 19.  \n6. À nota dos(as) participantes do PAAIS será acrescida a pontuação conforme o art. 9º."
+    },
+    {
+        "question": "Quantas vagas serão ofertadas para Música Erudita: Piano?",
+        "expected_answer": "3 vagas."
+    },
+    {
+        "question": "Quais as disciplinas cobradas na prova?",
+        "expected_answer": "Matemática, Língua Portuguesa e Literatura, Interdisciplinar (Inglês, Ciências Humanas e Ciências da Natureza) e provas de conhecimentos específicos de acordo com o curso escolhido."
+    }
+]
