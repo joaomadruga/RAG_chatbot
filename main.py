@@ -43,7 +43,7 @@ def main():
         with chat_container:
             for index, message in enumerate(st.session_state['chat_history']):
                 if message.type != "system":
-                    chat_message_box(message.content, is_user=message.type == "human")
+                    chat_message_box(message.content, is_user=message.type == "human", key=f"{message.type}_{index}")
                 if message.type == "ai":
                     st.text(f'timestamp: {st.session_state["timestamp"][(index // 2) - 1]}')
 
